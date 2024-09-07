@@ -5,7 +5,7 @@ require "json"
 require "uri"
 require "fileutils"
 
-CLIENT_ID="YOUR_CLIENT_ID"
+CLIENT_ID="Iv23lieInUABwCA8pErY"
 
 def help
   puts "usage: app_cli <login | whoami | help>"
